@@ -1,3 +1,3 @@
 # Hello_World
-##First Repository
+## First Repository
 This is a **practice repository** to learn github functions.
